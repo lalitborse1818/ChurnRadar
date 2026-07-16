@@ -1,0 +1,201 @@
+customer_id,age,region,tenure_months,contract_type,plan_tier,monthly_charges,total_charges,payment_method,autopay_enrolled,paperless_billing,has_dependents,num_products,support_calls_last_90d,late_payments_last_12m,usage_trend_pct,satisfaction_score,discount_pct,tenure_segment,value_tier,contract_risk_tier,high_support_flag,late_payment_flag,low_engagement_billing_flag,bundled_customer_flag,usage_trend_bucket,price_per_tenure_month,satisfaction_vs_cohort,churned
+100000,43,West,23,Month-to-Month,Basic,25.67,627.06,Electronic Check,0,1,1,2,3,1,-9.47,6.6,5,Established (18-36mo),Low Value,High Risk Contract,1,0,0,0,Mild Decline,1.12,-0.15,1
+100001,44,West,31,Two-Year,Standard,51.54,1619.03,Mailed Check,0,0,0,2,4,1,11.45,5.8,0,Established (18-36mo),Mid Value,Low Risk Contract,1,0,1,0,Stable/Growing,1.66,-0.96,0
+100002,28,East,20,Month-to-Month,Standard,55.71,1082.36,Credit Card,0,1,1,3,4,1,6.92,9.5,0,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,1,Stable/Growing,2.79,2.74,1
+100003,61,North,18,Month-to-Month,Standard,59.22,1070.71,Credit Card,1,0,0,3,1,0,-48.05,8.1,10,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,1,Sharp Decline,3.29,1.34,0
+100004,48,Central,33,Two-Year,Basic,26.55,841.04,Credit Card,1,1,0,4,2,1,13.57,6.2,10,Established (18-36mo),Low Value,Low Risk Contract,0,0,0,1,Stable/Growing,0.8,-0.55,0
+100005,73,North,20,Two-Year,Basic,26.62,508.81,Mailed Check,0,1,0,2,0,0,3.57,10.0,5,Established (18-36mo),Low Value,Low Risk Contract,0,0,0,0,Stable/Growing,1.33,3.25,0
+100006,33,Central,26,Month-to-Month,Basic,24.86,624.97,Bank Transfer,0,1,1,2,0,2,-7.59,6.0,0,Established (18-36mo),Low Value,High Risk Contract,0,1,0,0,Mild Decline,0.96,-0.75,0
+100007,40,North,24,Month-to-Month,Premium,102.84,2479.8,Electronic Check,0,0,0,3,3,1,-2.06,7.7,0,Established (18-36mo),Mid Value,High Risk Contract,1,0,1,1,Mild Decline,4.29,0.92,1
+100008,27,West,33,Month-to-Month,Basic,26.23,876.98,Credit Card,0,1,0,3,1,1,6.59,5.4,0,Established (18-36mo),Low Value,High Risk Contract,0,0,0,1,Stable/Growing,0.79,-1.35,0
+100009,68,South,16,Month-to-Month,Standard,57.17,870.87,Credit Card,1,0,0,2,2,0,-7.27,5.2,10,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Mild Decline,3.57,-1.56,0
+100010,67,Central,41,Month-to-Month,Basic,36.12,1482.08,Credit Card,0,1,0,2,3,0,18.62,8.3,0,Loyal (36mo+),Mid Value,High Risk Contract,1,0,0,0,Sharp Growth,0.88,1.55,0
+100011,39,Central,13,Month-to-Month,Standard,62.81,824.63,Bank Transfer,0,1,0,2,4,1,16.82,9.5,10,Growing (6-18mo),Low Value,High Risk Contract,1,0,0,0,Sharp Growth,4.83,2.74,0
+100012,39,South,27,Month-to-Month,Basic,18.2,503.0,Electronic Check,1,0,0,1,2,0,-27.94,7.9,0,Established (18-36mo),Low Value,High Risk Contract,0,0,0,0,Sharp Decline,0.67,1.15,0
+100013,44,North,25,Month-to-Month,Standard,59.36,1474.6,Electronic Check,0,1,0,3,0,1,-24.0,4.4,0,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,1,Sharp Decline,2.37,-2.36,1
+100014,37,Central,13,Month-to-Month,Basic,34.31,417.29,Credit Card,1,0,0,1,1,0,-5.1,4.5,0,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Mild Decline,2.64,-2.25,1
+100015,21,East,28,Month-to-Month,Basic,34.55,964.47,Credit Card,1,0,1,2,2,0,-46.29,5.4,0,Established (18-36mo),Low Value,High Risk Contract,0,0,0,0,Sharp Decline,1.23,-1.35,0
+100016,49,South,17,One-Year,Basic,25.35,391.39,Credit Card,1,1,1,2,1,0,21.25,7.2,0,Growing (6-18mo),Low Value,Medium Risk Contract,0,0,0,0,Sharp Growth,1.49,0.45,0
+100017,47,East,10,Month-to-Month,Basic,27.87,267.89,Credit Card,0,1,1,2,1,0,-8.98,7.2,5,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Mild Decline,2.79,0.45,0
+100018,45,South,31,One-Year,Basic,33.12,1003.25,Electronic Check,1,1,1,2,4,2,-13.65,6.7,10,Established (18-36mo),Mid Value,Medium Risk Contract,1,1,0,0,Mild Decline,1.07,-0.05,1
+100019,48,South,7,Month-to-Month,Premium,97.02,656.62,Electronic Check,0,0,1,1,0,0,-2.27,4.7,0,Growing (6-18mo),Low Value,High Risk Contract,0,0,1,0,Mild Decline,13.86,-2.08,0
+100020,29,South,11,Month-to-Month,Premium,97.37,1068.47,Electronic Check,1,0,0,3,3,3,21.81,9.4,0,Growing (6-18mo),Mid Value,High Risk Contract,1,1,0,1,Sharp Growth,8.85,2.62,1
+100021,43,West,20,Two-Year,Standard,61.64,1251.6,Credit Card,1,1,0,1,0,0,-25.67,5.8,5,Established (18-36mo),Mid Value,Low Risk Contract,0,0,0,0,Sharp Decline,3.08,-0.96,0
+100022,51,Central,33,One-Year,Standard,66.58,2231.57,Bank Transfer,1,1,0,1,2,0,17.52,5.0,0,Established (18-36mo),Mid Value,Medium Risk Contract,0,0,0,0,Sharp Growth,2.02,-1.76,0
+100023,48,South,30,Two-Year,Basic,32.93,971.17,Credit Card,1,0,1,1,1,1,-22.8,3.2,0,Established (18-36mo),Low Value,Low Risk Contract,0,0,0,0,Sharp Decline,1.1,-3.55,0
+100024,30,West,23,One-Year,Premium,102.54,2341.24,Credit Card,0,0,0,1,3,0,-26.51,6.9,20,Established (18-36mo),Mid Value,Medium Risk Contract,1,0,1,0,Sharp Decline,4.46,0.12,0
+100025,51,South,5,Month-to-Month,Premium,100.53,480.14,Bank Transfer,1,0,1,3,1,1,-13.4,9.4,5,New (0-6mo),Low Value,High Risk Contract,0,0,0,1,Mild Decline,20.11,2.62,0
+100026,36,Central,13,One-Year,Basic,19.13,214.52,Credit Card,0,1,0,2,1,0,-25.88,8.3,0,Growing (6-18mo),Low Value,Medium Risk Contract,0,0,0,0,Sharp Decline,1.47,1.55,0
+100027,47,North,15,Month-to-Month,Basic,26.9,386.2,Bank Transfer,0,1,0,2,0,2,2.17,6.4,0,Growing (6-18mo),Low Value,High Risk Contract,0,1,0,0,Stable/Growing,1.79,-0.35,0
+100028,27,East,9,Month-to-Month,Standard,57.77,519.49,Credit Card,1,0,0,3,4,0,31.5,3.4,0,Growing (6-18mo),Low Value,High Risk Contract,1,0,0,1,Sharp Growth,6.42,-3.36,0
+100029,42,South,4,One-Year,Standard,51.02,205.62,Bank Transfer,0,1,0,1,2,1,-2.71,7.8,0,New (0-6mo),Low Value,Medium Risk Contract,0,0,0,0,Mild Decline,12.76,1.04,0
+100030,22,Central,21,One-Year,Standard,60.84,1292.7,Credit Card,0,1,1,2,3,0,-29.72,7.1,0,Established (18-36mo),Mid Value,Medium Risk Contract,1,0,0,0,Sharp Decline,2.9,0.34,0
+100031,51,Central,30,Month-to-Month,Standard,56.88,1698.72,Credit Card,1,1,0,3,3,0,-9.86,6.1,0,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,1,Mild Decline,1.9,-0.66,0
+100032,34,North,14,Month-to-Month,Basic,15.0,242.56,Credit Card,0,1,0,2,0,0,-2.58,8.8,15,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Mild Decline,1.07,2.05,0
+100033,41,South,33,Month-to-Month,Premium,99.97,3300.2,Electronic Check,0,1,1,2,1,0,-17.12,6.0,10,Established (18-36mo),High Value,High Risk Contract,0,0,0,0,Sharp Decline,3.03,-0.78,1
+100034,34,East,6,Month-to-Month,Premium,103.98,625.45,Credit Card,0,1,0,2,5,3,18.36,3.3,5,Growing (6-18mo),Low Value,High Risk Contract,1,1,0,0,Sharp Growth,17.33,-3.48,1
+100035,18,North,9,Month-to-Month,Standard,64.78,570.24,Credit Card,0,1,1,2,5,0,12.46,10.0,0,Growing (6-18mo),Low Value,High Risk Contract,1,0,0,0,Stable/Growing,7.2,3.24,0
+100036,43,North,21,Two-Year,Standard,57.51,1205.95,Electronic Check,0,0,0,4,2,2,-9.86,6.3,15,Established (18-36mo),Mid Value,Low Risk Contract,0,1,1,1,Mild Decline,2.74,-0.46,0
+100037,63,West,13,One-Year,Premium,99.95,1280.55,Bank Transfer,1,1,0,1,4,0,-11.22,4.7,0,Growing (6-18mo),Mid Value,Medium Risk Contract,1,0,0,0,Mild Decline,7.69,-2.08,0
+100038,26,East,29,Month-to-Month,Premium,92.77,2705.05,Electronic Check,1,0,0,2,5,0,60.88,5.5,15,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,0,Sharp Growth,3.2,-1.28,0
+100039,34,East,26,Two-Year,Basic,21.67,591.37,Electronic Check,0,1,1,1,2,1,-20.59,5.4,10,Established (18-36mo),Low Value,Low Risk Contract,0,0,0,0,Sharp Decline,0.83,-1.35,0
+100040,59,South,14,One-Year,Standard,63.37,870.92,Bank Transfer,1,0,0,2,0,0,-15.98,8.0,10,Growing (6-18mo),Low Value,Medium Risk Contract,0,0,0,0,Sharp Decline,4.53,1.24,0
+100041,32,West,7,One-Year,Premium,97.64,675.33,Bank Transfer,1,1,0,3,9,1,32.87,8.3,0,Growing (6-18mo),Low Value,Medium Risk Contract,1,0,0,1,Sharp Growth,13.95,1.52,1
+100042,33,East,13,Month-to-Month,Basic,35.7,500.77,Credit Card,1,0,1,2,1,0,27.55,7.4,5,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Sharp Growth,2.75,0.65,0
+100043,55,West,26,Month-to-Month,Standard,55.03,1439.46,Bank Transfer,0,1,1,1,2,0,-13.58,7.9,0,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,0,Mild Decline,2.12,1.14,0
+100044,26,North,29,One-Year,Standard,67.01,1947.24,Bank Transfer,0,0,0,2,4,0,3.21,6.4,0,Established (18-36mo),Mid Value,Medium Risk Contract,1,0,1,0,Stable/Growing,2.31,-0.36,0
+100045,44,North,13,Month-to-Month,Standard,52.1,666.63,Bank Transfer,1,1,0,2,5,0,-10.62,10.0,0,Growing (6-18mo),Low Value,High Risk Contract,1,0,0,0,Mild Decline,4.01,3.24,0
+100046,38,East,4,One-Year,Standard,58.84,241.23,Bank Transfer,1,1,0,3,2,2,-26.74,9.0,0,New (0-6mo),Low Value,Medium Risk Contract,0,1,0,1,Sharp Decline,14.71,2.24,0
+100047,35,North,6,Month-to-Month,Basic,29.49,164.35,Credit Card,0,1,0,1,0,3,14.69,6.7,0,Growing (6-18mo),Low Value,High Risk Contract,0,1,0,0,Stable/Growing,4.92,-0.05,1
+100048,47,Central,25,Two-Year,Basic,31.28,782.72,Credit Card,1,0,0,2,1,1,13.92,6.4,0,Established (18-36mo),Low Value,Low Risk Contract,0,0,0,0,Stable/Growing,1.25,-0.35,0
+100049,59,Central,14,One-Year,Standard,62.8,925.33,Bank Transfer,0,0,0,2,1,0,-12.23,4.8,20,Growing (6-18mo),Low Value,Medium Risk Contract,0,0,1,0,Mild Decline,4.49,-1.96,0
+100050,65,North,14,One-Year,Standard,60.43,845.77,Mailed Check,0,1,1,1,6,1,20.77,7.0,0,Growing (6-18mo),Low Value,Medium Risk Contract,1,0,0,0,Sharp Growth,4.32,0.24,1
+100051,70,Central,9,Two-Year,Standard,50.4,469.71,Credit Card,1,0,0,2,0,0,6.68,6.2,5,Growing (6-18mo),Low Value,Low Risk Contract,0,0,0,0,Stable/Growing,5.6,-0.56,0
+100052,32,East,8,Two-Year,Standard,67.19,543.22,Bank Transfer,1,0,0,1,3,2,-12.74,8.0,0,Growing (6-18mo),Low Value,Low Risk Contract,1,1,0,0,Mild Decline,8.4,1.24,0
+100053,40,South,33,Two-Year,Basic,32.87,1111.09,Bank Transfer,1,1,0,1,1,1,-7.91,6.2,5,Established (18-36mo),Mid Value,Low Risk Contract,0,0,0,0,Mild Decline,1.0,-0.55,0
+100054,49,Central,25,Month-to-Month,Standard,56.67,1412.06,Bank Transfer,1,1,1,1,3,0,-26.25,9.1,0,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,0,Sharp Decline,2.27,2.34,0
+100055,50,Central,12,Month-to-Month,Standard,56.7,695.21,Credit Card,0,1,1,4,3,0,1.26,6.1,20,Growing (6-18mo),Low Value,High Risk Contract,1,0,0,1,Stable/Growing,4.73,-0.66,0
+100056,31,Central,20,One-Year,Basic,31.0,603.73,Credit Card,1,1,0,1,2,0,-6.27,3.6,0,Established (18-36mo),Low Value,Medium Risk Contract,0,0,0,0,Mild Decline,1.55,-3.15,0
+100057,38,East,22,Month-to-Month,Standard,74.33,1659.88,Bank Transfer,1,1,1,2,4,1,9.64,7.0,10,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,0,Stable/Growing,3.38,0.24,1
+100058,49,Central,50,One-Year,Premium,90.14,4488.91,Credit Card,0,1,1,1,2,1,6.91,3.6,0,Loyal (36mo+),High Value,Medium Risk Contract,0,0,0,0,Stable/Growing,1.8,-3.18,0
+100059,46,West,8,Month-to-Month,Premium,98.64,765.58,Credit Card,1,1,0,2,1,1,4.5,8.4,0,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Stable/Growing,12.33,1.62,1
+100060,44,South,22,Month-to-Month,Standard,60.62,1301.1,Credit Card,1,1,1,1,2,1,17.76,10.0,5,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,0,Sharp Growth,2.76,3.24,0
+100061,45,Central,33,Month-to-Month,Standard,44.91,1541.9,Bank Transfer,1,0,1,3,1,1,5.78,6.9,10,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,1,Stable/Growing,1.36,0.14,0
+100062,51,Central,47,Month-to-Month,Standard,55.49,2587.97,Credit Card,1,1,0,1,4,1,1.99,8.3,15,Loyal (36mo+),Mid Value,High Risk Contract,1,0,0,0,Stable/Growing,1.18,1.54,0
+100063,36,South,11,Two-Year,Standard,63.08,704.82,Electronic Check,0,1,0,4,2,1,0.88,7.6,0,Growing (6-18mo),Low Value,Low Risk Contract,0,0,0,1,Stable/Growing,5.73,0.84,0
+100064,68,Central,14,Month-to-Month,Basic,33.03,473.44,Credit Card,1,1,0,3,3,0,-1.74,6.5,5,Growing (6-18mo),Low Value,High Risk Contract,1,0,0,1,Mild Decline,2.36,-0.25,0
+100065,35,East,29,Two-Year,Standard,60.92,1786.6,Electronic Check,1,1,0,2,5,4,-4.16,6.1,0,Established (18-36mo),Mid Value,Low Risk Contract,1,1,0,0,Mild Decline,2.1,-0.66,1
+100066,63,West,5,Month-to-Month,Standard,59.9,326.91,Credit Card,1,1,0,1,2,1,28.12,7.8,0,New (0-6mo),Low Value,High Risk Contract,0,0,0,0,Sharp Growth,11.98,1.04,1
+100067,42,Central,23,One-Year,Standard,67.73,1600.04,Bank Transfer,1,1,0,1,0,1,-2.0,7.2,0,Established (18-36mo),Mid Value,Medium Risk Contract,0,0,0,0,Mild Decline,2.94,0.44,0
+100068,66,South,61,Two-Year,Premium,106.14,6504.31,Electronic Check,0,1,0,3,2,1,-5.72,6.9,10,Loyal (36mo+),High Value,Low Risk Contract,0,0,0,1,Mild Decline,1.74,0.12,0
+100069,23,South,25,Two-Year,Standard,49.37,1230.83,Electronic Check,0,0,0,1,2,0,40.77,6.6,0,Established (18-36mo),Mid Value,Low Risk Contract,0,0,1,0,Sharp Growth,1.97,-0.16,0
+100070,45,East,2,Month-to-Month,Premium,94.18,203.04,Credit Card,0,1,0,4,3,1,7.93,8.0,5,New (0-6mo),Low Value,High Risk Contract,1,0,0,1,Stable/Growing,47.09,1.22,1
+100071,63,East,10,Month-to-Month,Basic,34.25,350.84,Credit Card,1,1,1,2,3,1,-6.28,4.8,0,Growing (6-18mo),Low Value,High Risk Contract,1,0,0,0,Mild Decline,3.42,-1.95,1
+100072,48,Central,11,One-Year,Standard,70.88,782.17,Bank Transfer,1,1,0,4,1,0,-19.16,5.5,10,Growing (6-18mo),Low Value,Medium Risk Contract,0,0,0,1,Sharp Decline,6.44,-1.26,0
+100073,46,Central,37,Month-to-Month,Standard,67.51,2499.14,Electronic Check,0,1,0,3,3,0,3.53,4.4,0,Loyal (36mo+),Mid Value,High Risk Contract,1,0,0,1,Stable/Growing,1.82,-2.36,0
+100074,53,Central,17,Month-to-Month,Standard,59.79,1057.25,Bank Transfer,0,0,0,2,5,1,-10.34,5.8,0,Growing (6-18mo),Mid Value,High Risk Contract,1,0,1,0,Mild Decline,3.52,-0.96,1
+100075,58,North,4,Month-to-Month,Basic,23.46,76.36,Electronic Check,0,0,0,2,3,1,-26.84,7.0,0,New (0-6mo),Low Value,High Risk Contract,1,0,1,0,Sharp Decline,5.87,0.25,1
+100076,41,North,18,Two-Year,Basic,38.34,676.7,Electronic Check,1,0,0,2,1,2,13.18,7.6,0,Established (18-36mo),Low Value,Low Risk Contract,0,1,0,0,Stable/Growing,2.13,0.85,0
+100077,30,South,21,Month-to-Month,Basic,26.3,550.27,Mailed Check,0,1,1,1,3,1,26.66,6.6,15,Established (18-36mo),Low Value,High Risk Contract,1,0,0,0,Sharp Growth,1.25,-0.15,1
+100078,35,East,13,Month-to-Month,Premium,102.78,1314.0,Credit Card,1,1,1,1,3,0,-4.95,5.7,5,Growing (6-18mo),Mid Value,High Risk Contract,1,0,0,0,Mild Decline,7.91,-1.08,0
+100079,40,East,8,One-Year,Standard,57.01,441.96,Bank Transfer,1,0,1,3,4,0,-32.72,4.4,5,Growing (6-18mo),Low Value,Medium Risk Contract,1,0,0,1,Sharp Decline,7.13,-2.36,1
+100080,47,East,65,One-Year,Standard,61.23,3979.66,Credit Card,0,1,0,1,3,0,2.74,6.0,0,Loyal (36mo+),High Value,Medium Risk Contract,1,0,0,0,Stable/Growing,0.94,-0.76,1
+100081,37,South,33,Month-to-Month,Basic,34.07,1085.23,Credit Card,0,1,0,1,5,0,19.79,6.9,0,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,0,Sharp Growth,1.03,0.15,1
+100082,31,West,35,One-Year,Basic,27.85,957.66,Mailed Check,1,1,1,3,1,0,-9.92,4.4,5,Established (18-36mo),Low Value,Medium Risk Contract,0,0,0,1,Mild Decline,0.8,-2.35,0
+100083,37,North,17,Month-to-Month,Standard,57.0,961.74,Credit Card,1,1,0,1,2,0,-16.47,10.0,0,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Sharp Decline,3.35,3.24,0
+100084,72,Central,11,One-Year,Standard,61.08,678.06,Bank Transfer,0,1,1,3,4,1,-9.24,7.8,5,Growing (6-18mo),Low Value,Medium Risk Contract,1,0,0,1,Mild Decline,5.55,1.04,1
+100085,33,North,13,One-Year,Standard,60.13,781.09,Credit Card,1,0,0,3,3,1,-6.39,8.4,15,Growing (6-18mo),Low Value,Medium Risk Contract,1,0,0,1,Mild Decline,4.63,1.64,0
+100086,58,North,6,Month-to-Month,Premium,100.33,642.18,Bank Transfer,1,1,0,1,1,1,-2.96,5.8,15,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Mild Decline,16.72,-0.98,1
+100087,44,East,50,Month-to-Month,Basic,23.21,1164.92,Credit Card,0,1,1,2,0,0,-2.5,6.3,10,Loyal (36mo+),Mid Value,High Risk Contract,0,0,0,0,Mild Decline,0.46,-0.45,0
+100088,48,West,17,One-Year,Standard,53.99,933.53,Credit Card,1,1,0,3,3,3,-16.66,5.1,0,Growing (6-18mo),Low Value,Medium Risk Contract,1,1,0,1,Sharp Decline,3.18,-1.66,1
+100089,31,North,43,Month-to-Month,Standard,65.62,2807.3,Credit Card,1,1,0,1,3,0,9.72,6.0,5,Loyal (36mo+),Mid Value,High Risk Contract,1,0,0,0,Stable/Growing,1.53,-0.76,1
+100090,31,East,14,Month-to-Month,Basic,27.27,374.12,Bank Transfer,1,0,0,1,1,0,17.96,8.5,0,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Sharp Growth,1.95,1.75,0
+100091,48,South,25,One-Year,Basic,31.91,826.36,Electronic Check,0,1,0,2,0,0,-21.99,4.6,0,Established (18-36mo),Low Value,Medium Risk Contract,0,0,0,0,Sharp Decline,1.28,-2.15,0
+100092,45,North,21,Two-Year,Basic,33.44,686.35,Electronic Check,0,1,1,1,4,1,10.91,5.8,0,Established (18-36mo),Low Value,Low Risk Contract,1,0,0,0,Stable/Growing,1.59,-0.95,0
+100093,19,Central,6,Month-to-Month,Standard,54.47,316.74,Bank Transfer,0,1,0,2,2,0,-9.43,7.5,0,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Mild Decline,9.08,0.74,0
+100094,44,South,54,Month-to-Month,Premium,98.58,5307.46,Electronic Check,1,0,0,1,4,0,-0.31,10.0,20,Loyal (36mo+),High Value,High Risk Contract,1,0,0,0,Mild Decline,1.83,3.22,0
+100095,51,South,14,Month-to-Month,Premium,102.28,1440.39,Credit Card,1,1,0,4,1,1,3.37,10.0,0,Growing (6-18mo),Mid Value,High Risk Contract,0,0,0,1,Stable/Growing,7.31,3.22,1
+100096,28,Central,7,Month-to-Month,Standard,49.39,305.66,Electronic Check,0,0,1,1,3,0,-8.41,6.7,10,Growing (6-18mo),Low Value,High Risk Contract,1,0,1,0,Mild Decline,7.06,-0.06,0
+100097,50,South,29,Month-to-Month,Standard,58.73,1718.01,Mailed Check,1,1,1,1,2,0,2.83,6.3,0,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,0,Stable/Growing,2.03,-0.46,0
+100098,56,East,19,Month-to-Month,Basic,27.94,517.01,Bank Transfer,1,1,0,3,1,1,-29.57,7.0,20,Established (18-36mo),Low Value,High Risk Contract,0,0,0,1,Sharp Decline,1.47,0.25,1
+100099,59,West,24,Month-to-Month,Standard,60.04,1419.97,Electronic Check,1,0,0,2,2,0,22.64,6.9,0,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,0,Sharp Growth,2.5,0.14,0
+100100,40,Central,20,Month-to-Month,Standard,53.27,1073.1,Credit Card,1,1,1,1,2,0,-13.62,6.3,0,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,0,Mild Decline,2.66,-0.46,0
+100101,50,South,2,Month-to-Month,Basic,36.52,93.77,Bank Transfer,1,1,0,3,1,0,19.4,7.3,0,New (0-6mo),Low Value,High Risk Contract,0,0,0,1,Sharp Growth,18.26,0.55,0
+100102,22,West,9,Month-to-Month,Premium,103.94,928.22,Electronic Check,0,1,1,2,0,0,22.02,7.5,20,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Sharp Growth,11.55,0.72,0
+100103,39,Central,9,Month-to-Month,Standard,66.86,598.92,Mailed Check,1,1,0,1,3,1,11.75,8.5,0,Growing (6-18mo),Low Value,High Risk Contract,1,0,0,0,Stable/Growing,7.43,1.74,0
+100104,53,North,34,Month-to-Month,Standard,60.75,2060.44,Bank Transfer,1,0,0,1,3,0,-1.31,6.8,0,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,0,Mild Decline,1.79,0.04,1
+100105,43,West,19,Two-Year,Basic,29.29,578.18,Mailed Check,0,1,0,2,3,1,9.4,5.4,10,Established (18-36mo),Low Value,Low Risk Contract,1,0,0,0,Stable/Growing,1.54,-1.35,0
+100106,19,North,26,Month-to-Month,Basic,25.52,672.09,Bank Transfer,1,1,0,3,2,0,24.95,6.1,0,Established (18-36mo),Low Value,High Risk Contract,0,0,0,1,Sharp Growth,0.98,-0.65,0
+100107,48,East,15,Month-to-Month,Standard,57.19,815.98,Credit Card,0,1,0,2,2,1,11.4,7.2,5,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Stable/Growing,3.81,0.44,0
+100108,48,East,27,Month-to-Month,Standard,53.92,1468.87,Bank Transfer,1,1,0,2,4,0,-3.67,7.3,0,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,0,Mild Decline,2.0,0.54,0
+100109,55,North,17,Two-Year,Standard,61.36,1020.86,Bank Transfer,1,0,0,1,2,0,-15.66,5.1,5,Growing (6-18mo),Mid Value,Low Risk Contract,0,0,0,0,Sharp Decline,3.61,-1.66,0
+100110,55,West,16,Month-to-Month,Basic,23.04,360.57,Credit Card,1,0,0,1,2,0,4.96,6.5,0,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Stable/Growing,1.44,-0.25,0
+100111,57,South,21,Month-to-Month,Basic,28.22,583.07,Credit Card,1,0,1,1,1,0,-33.74,5.3,0,Established (18-36mo),Low Value,High Risk Contract,0,0,0,0,Sharp Decline,1.34,-1.45,0
+100112,57,North,20,Month-to-Month,Premium,85.29,1722.63,Credit Card,0,1,1,4,2,1,19.73,3.2,5,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,1,Sharp Growth,4.26,-3.58,0
+100113,34,East,72,Month-to-Month,Basic,15.0,1083.13,Electronic Check,1,0,0,3,0,1,5.16,4.9,15,Loyal (36mo+),Mid Value,High Risk Contract,0,0,0,1,Stable/Growing,0.21,-1.85,0
+100114,34,Central,9,Month-to-Month,Standard,63.51,553.58,Electronic Check,1,1,1,4,3,0,3.43,9.4,0,Growing (6-18mo),Low Value,High Risk Contract,1,0,0,1,Stable/Growing,7.06,2.64,0
+100115,52,North,5,Two-Year,Basic,20.25,104.85,Mailed Check,1,1,0,3,2,0,-3.01,4.8,0,New (0-6mo),Low Value,Low Risk Contract,0,0,0,1,Mild Decline,4.05,-1.95,0
+100116,39,West,23,Month-to-Month,Standard,56.13,1325.85,Electronic Check,1,0,0,2,0,2,-50.07,7.5,0,Established (18-36mo),Mid Value,High Risk Contract,0,1,0,0,Sharp Decline,2.44,0.74,1
+100117,48,Central,10,Month-to-Month,Standard,59.93,613.93,Credit Card,0,1,0,2,2,0,-0.83,4.3,15,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Mild Decline,5.99,-2.46,1
+100118,57,North,2,One-Year,Standard,63.73,147.22,Electronic Check,1,1,0,2,1,0,-15.73,5.7,5,New (0-6mo),Low Value,Medium Risk Contract,0,0,0,0,Sharp Decline,31.86,-1.06,1
+100119,36,Central,8,Month-to-Month,Standard,62.81,542.13,Electronic Check,0,1,1,2,2,1,-24.32,7.5,0,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Sharp Decline,7.85,0.74,1
+100120,54,North,68,One-Year,Standard,62.78,4260.98,Credit Card,1,0,1,2,1,0,-4.32,7.4,0,Loyal (36mo+),High Value,Medium Risk Contract,0,0,0,0,Mild Decline,0.92,0.64,0
+100121,38,South,9,One-Year,Standard,57.2,499.79,Credit Card,0,0,1,4,3,1,-33.86,6.2,15,Growing (6-18mo),Low Value,Medium Risk Contract,1,0,1,1,Sharp Decline,6.36,-0.56,0
+100122,47,South,3,One-Year,Premium,96.05,291.8,Bank Transfer,0,1,1,4,1,0,-2.3,6.0,0,New (0-6mo),Low Value,Medium Risk Contract,0,0,0,1,Mild Decline,32.02,-0.78,0
+100123,45,South,65,Month-to-Month,Premium,99.95,6476.06,Bank Transfer,1,1,0,1,1,0,-8.08,4.2,10,Loyal (36mo+),High Value,High Risk Contract,0,0,0,0,Mild Decline,1.54,-2.58,0
+100124,47,Central,7,Month-to-Month,Premium,105.16,724.72,Electronic Check,0,0,1,4,5,0,-12.8,6.3,10,Growing (6-18mo),Low Value,High Risk Contract,1,0,1,1,Mild Decline,15.02,-0.48,1
+100125,34,North,72,One-Year,Standard,56.07,4026.32,Electronic Check,0,1,0,1,2,2,-8.0,7.1,0,Loyal (36mo+),High Value,Medium Risk Contract,0,1,0,0,Mild Decline,0.78,0.34,0
+100126,49,Central,14,One-Year,Basic,16.45,215.18,Credit Card,1,1,0,1,2,0,-13.14,8.0,0,Growing (6-18mo),Low Value,Medium Risk Contract,0,0,0,0,Mild Decline,1.18,1.25,0
+100127,46,North,54,Month-to-Month,Standard,57.41,3074.13,Bank Transfer,1,1,0,2,1,2,-0.18,8.8,0,Loyal (36mo+),High Value,High Risk Contract,0,1,0,0,Mild Decline,1.06,2.04,0
+100128,36,South,16,Month-to-Month,Standard,70.39,1108.57,Electronic Check,1,1,0,3,1,1,-10.48,6.9,0,Growing (6-18mo),Mid Value,High Risk Contract,0,0,0,1,Mild Decline,4.4,0.14,1
+100129,44,West,25,One-Year,Standard,50.59,1290.8,Electronic Check,0,1,1,1,1,1,31.94,8.3,0,Established (18-36mo),Mid Value,Medium Risk Contract,0,0,0,0,Sharp Growth,2.02,1.54,0
+100130,42,East,17,Month-to-Month,Basic,37.33,622.56,Credit Card,1,0,0,1,2,2,9.15,6.5,0,Growing (6-18mo),Low Value,High Risk Contract,0,1,0,0,Stable/Growing,2.2,-0.25,1
+100131,66,Central,16,Month-to-Month,Standard,43.65,722.95,Mailed Check,1,1,0,2,1,0,-5.55,5.1,10,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Mild Decline,2.73,-1.66,0
+100132,36,West,22,Month-to-Month,Standard,53.12,1149.27,Electronic Check,0,0,0,3,4,1,-11.85,7.1,10,Established (18-36mo),Mid Value,High Risk Contract,1,0,1,1,Mild Decline,2.41,0.34,0
+100133,58,North,26,Month-to-Month,Basic,34.57,925.0,Electronic Check,1,1,0,3,1,0,-14.68,5.4,5,Established (18-36mo),Low Value,High Risk Contract,0,0,0,1,Mild Decline,1.33,-1.35,0
+100134,49,West,21,One-Year,Premium,95.6,2015.78,Mailed Check,0,0,0,1,4,0,-11.75,6.2,0,Established (18-36mo),Mid Value,Medium Risk Contract,1,0,1,0,Mild Decline,4.55,-0.58,1
+100135,44,East,19,Month-to-Month,Premium,100.56,1855.21,Bank Transfer,0,1,1,3,1,1,-7.89,4.9,10,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,1,Mild Decline,5.29,-1.88,1
+100136,26,Central,10,Month-to-Month,Standard,59.8,616.45,Credit Card,0,0,0,3,5,1,13.62,5.3,10,Growing (6-18mo),Low Value,High Risk Contract,1,0,1,1,Stable/Growing,5.98,-1.46,0
+100137,47,South,17,Month-to-Month,Premium,110.37,1916.79,Credit Card,1,1,0,1,1,0,16.09,7.3,0,Growing (6-18mo),Mid Value,High Risk Contract,0,0,0,0,Sharp Growth,6.49,0.52,0
+100138,45,South,49,Month-to-Month,Premium,95.2,4652.25,Credit Card,1,1,0,1,4,1,5.77,5.6,10,Loyal (36mo+),High Value,High Risk Contract,1,0,0,0,Stable/Growing,1.94,-1.18,1
+100139,46,South,10,Month-to-Month,Premium,109.19,1093.33,Bank Transfer,1,1,1,1,3,0,20.43,4.4,0,Growing (6-18mo),Mid Value,High Risk Contract,1,0,0,0,Sharp Growth,10.92,-2.38,1
+100140,44,West,22,One-Year,Standard,56.44,1225.95,Credit Card,1,1,1,3,2,1,12.65,4.6,0,Established (18-36mo),Mid Value,Medium Risk Contract,0,0,0,1,Stable/Growing,2.57,-2.16,0
+100141,40,North,40,Month-to-Month,Standard,60.38,2437.81,Electronic Check,1,1,0,3,3,0,0.47,3.6,20,Loyal (36mo+),Mid Value,High Risk Contract,1,0,0,1,Stable/Growing,1.51,-3.16,1
+100142,20,Central,26,Month-to-Month,Basic,28.06,701.57,Credit Card,1,0,0,1,0,1,-2.37,5.3,0,Established (18-36mo),Low Value,High Risk Contract,0,0,0,0,Mild Decline,1.08,-1.45,0
+100143,18,West,34,Month-to-Month,Premium,102.18,3487.62,Bank Transfer,1,1,0,4,5,1,-29.13,6.0,0,Established (18-36mo),High Value,High Risk Contract,1,0,0,1,Sharp Decline,3.01,-0.78,1
+100144,34,West,7,One-Year,Standard,53.74,403.74,Bank Transfer,1,1,0,2,4,0,23.71,3.9,0,Growing (6-18mo),Low Value,Medium Risk Contract,1,0,0,0,Sharp Growth,7.68,-2.86,0
+100145,44,East,23,Month-to-Month,Standard,58.17,1309.99,Bank Transfer,1,0,0,1,1,1,11.03,6.3,0,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,0,Stable/Growing,2.53,-0.46,1
+100146,32,East,15,Month-to-Month,Standard,58.43,910.92,Bank Transfer,1,1,1,3,2,0,9.93,7.8,10,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,1,Stable/Growing,3.9,1.04,0
+100147,55,South,15,Month-to-Month,Premium,108.78,1634.52,Electronic Check,1,1,0,2,3,0,-32.51,6.4,5,Growing (6-18mo),Mid Value,High Risk Contract,1,0,0,0,Sharp Decline,7.25,-0.38,1
+100148,44,East,47,Month-to-Month,Standard,50.78,2402.96,Credit Card,0,1,1,2,0,1,1.48,5.6,0,Loyal (36mo+),Mid Value,High Risk Contract,0,0,0,0,Stable/Growing,1.08,-1.16,0
+100149,55,North,16,Month-to-Month,Standard,51.08,838.47,Electronic Check,0,1,1,4,2,0,-18.08,7.5,0,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,1,Sharp Decline,3.19,0.74,0
+100150,38,North,23,Month-to-Month,Standard,55.04,1257.97,Credit Card,0,1,1,1,4,0,6.92,6.2,5,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,0,Stable/Growing,2.39,-0.56,1
+100151,57,South,3,One-Year,Basic,28.97,91.62,Credit Card,0,0,1,3,4,0,24.45,4.9,0,New (0-6mo),Low Value,Medium Risk Contract,1,0,1,1,Sharp Growth,9.66,-1.85,0
+100152,32,Central,54,One-Year,Premium,99.22,5364.64,Bank Transfer,0,1,0,4,3,0,-17.56,5.2,0,Loyal (36mo+),High Value,Medium Risk Contract,1,0,0,1,Sharp Decline,1.84,-1.58,0
+100153,54,South,33,One-Year,Basic,24.21,796.44,Bank Transfer,0,1,0,2,1,2,13.12,8.5,5,Established (18-36mo),Low Value,Medium Risk Contract,0,1,0,0,Stable/Growing,0.73,1.75,0
+100154,38,Central,18,Month-to-Month,Premium,94.97,1712.38,Credit Card,0,0,1,1,2,1,6.28,9.8,0,Established (18-36mo),Mid Value,High Risk Contract,0,0,1,0,Stable/Growing,5.28,3.02,0
+100155,64,Central,14,Month-to-Month,Standard,60.43,865.71,Electronic Check,0,1,0,2,3,1,24.92,2.1,10,Growing (6-18mo),Low Value,High Risk Contract,1,0,0,0,Sharp Growth,4.32,-4.66,1
+100156,54,Central,28,Two-Year,Basic,27.46,786.48,Credit Card,1,1,0,3,0,2,14.97,4.6,0,Established (18-36mo),Low Value,Low Risk Contract,0,1,0,1,Stable/Growing,0.98,-2.15,0
+100157,78,East,40,One-Year,Standard,62.94,2537.15,Bank Transfer,1,1,0,1,3,0,-39.66,4.0,0,Loyal (36mo+),Mid Value,Medium Risk Contract,1,0,0,0,Sharp Decline,1.57,-2.76,1
+100158,35,East,54,One-Year,Standard,58.99,3137.42,Mailed Check,0,0,1,2,6,0,-13.8,6.3,15,Loyal (36mo+),High Value,Medium Risk Contract,1,0,1,0,Mild Decline,1.09,-0.46,0
+100159,57,North,32,One-Year,Standard,55.11,1742.41,Electronic Check,0,1,1,3,1,4,-16.41,6.2,0,Established (18-36mo),Mid Value,Medium Risk Contract,0,1,0,1,Sharp Decline,1.72,-0.56,1
+100160,32,South,20,Month-to-Month,Basic,15.86,319.31,Credit Card,1,1,1,1,3,2,-20.35,5.2,0,Established (18-36mo),Low Value,High Risk Contract,1,1,0,0,Sharp Decline,0.79,-1.55,1
+100161,26,Central,36,Month-to-Month,Standard,64.15,2321.12,Bank Transfer,0,1,0,3,1,1,-4.86,5.6,20,Loyal (36mo+),Mid Value,High Risk Contract,0,0,0,1,Mild Decline,1.78,-1.16,1
+100162,37,North,32,Month-to-Month,Premium,98.17,3168.85,Credit Card,1,0,0,4,4,1,-21.98,6.5,0,Established (18-36mo),High Value,High Risk Contract,1,0,0,1,Sharp Decline,3.07,-0.28,1
+100163,30,North,20,Two-Year,Premium,107.06,2087.11,Electronic Check,0,0,1,2,2,4,-8.62,6.3,0,Established (18-36mo),Mid Value,Low Risk Contract,0,1,1,0,Mild Decline,5.35,-0.48,1
+100164,23,North,31,Month-to-Month,Standard,53.54,1666.58,Credit Card,0,1,0,1,2,0,5.34,4.3,10,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,0,Stable/Growing,1.73,-2.46,1
+100165,40,South,31,One-Year,Premium,92.98,2888.95,Credit Card,1,0,1,3,6,0,10.15,3.3,5,Established (18-36mo),Mid Value,Medium Risk Contract,1,0,0,1,Stable/Growing,3.0,-3.48,1
+100166,30,North,18,Month-to-Month,Premium,102.42,1831.87,Electronic Check,1,1,0,1,3,0,19.38,1.9,10,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,0,Sharp Growth,5.69,-4.88,1
+100167,41,West,12,Month-to-Month,Premium,100.28,1212.95,Bank Transfer,1,0,1,4,4,3,13.11,4.7,5,Growing (6-18mo),Mid Value,High Risk Contract,1,1,0,1,Stable/Growing,8.36,-2.08,1
+100168,52,West,29,One-Year,Premium,96.5,2790.27,Credit Card,1,1,1,1,2,3,5.63,8.6,10,Established (18-36mo),Mid Value,Medium Risk Contract,0,1,0,0,Stable/Growing,3.33,1.82,1
+100169,61,West,8,Two-Year,Basic,29.92,201.98,Bank Transfer,0,1,0,1,0,0,-32.51,4.7,0,Growing (6-18mo),Low Value,Low Risk Contract,0,0,0,0,Sharp Decline,3.74,-2.05,0
+100170,34,West,6,Month-to-Month,Standard,58.78,291.26,Bank Transfer,0,1,0,1,1,0,-23.76,4.4,0,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Sharp Decline,9.8,-2.36,1
+100171,55,South,23,Month-to-Month,Basic,31.63,704.67,Electronic Check,0,1,0,1,2,0,38.28,6.0,5,Established (18-36mo),Low Value,High Risk Contract,0,0,0,0,Sharp Growth,1.38,-0.75,0
+100172,43,East,28,Month-to-Month,Premium,105.11,2944.15,Mailed Check,1,1,0,1,3,0,7.77,3.6,10,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,0,Stable/Growing,3.75,-3.18,0
+100173,24,South,23,Month-to-Month,Premium,96.2,2193.78,Electronic Check,0,1,1,2,3,1,-11.91,5.3,0,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,0,Mild Decline,4.18,-1.48,1
+100174,41,Central,25,One-Year,Basic,29.55,728.7,Electronic Check,1,1,1,3,3,2,0.73,6.3,0,Established (18-36mo),Low Value,Medium Risk Contract,1,1,0,1,Stable/Growing,1.18,-0.45,0
+100175,50,East,28,Month-to-Month,Standard,71.78,2020.81,Electronic Check,1,1,0,1,2,1,-9.85,6.5,5,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,0,Mild Decline,2.56,-0.26,1
+100176,47,South,47,Two-Year,Basic,35.17,1627.39,Electronic Check,0,1,0,1,0,0,29.04,5.9,10,Loyal (36mo+),Mid Value,Low Risk Contract,0,0,0,0,Sharp Growth,0.75,-0.85,0
+100177,24,North,33,Two-Year,Standard,62.46,2012.67,Credit Card,1,0,0,2,1,0,-21.36,10.0,0,Established (18-36mo),Mid Value,Low Risk Contract,0,0,0,0,Sharp Decline,1.89,3.24,0
+100178,35,East,32,Month-to-Month,Basic,30.24,944.88,Bank Transfer,1,0,0,2,2,0,26.73,8.0,0,Established (18-36mo),Low Value,High Risk Contract,0,0,0,0,Sharp Growth,0.94,1.25,0
+100179,43,Central,22,Month-to-Month,Basic,40.54,903.11,Credit Card,0,1,0,1,1,0,1.44,10.0,0,Established (18-36mo),Low Value,High Risk Contract,0,0,0,0,Stable/Growing,1.84,3.25,0
+100180,29,North,23,Month-to-Month,Standard,56.09,1282.77,Credit Card,1,1,1,2,2,0,-25.61,6.7,0,Established (18-36mo),Mid Value,High Risk Contract,0,0,0,0,Sharp Decline,2.44,-0.06,1
+100181,29,East,17,One-Year,Standard,60.45,1013.91,Mailed Check,0,0,0,2,2,0,-0.58,5.1,15,Growing (6-18mo),Mid Value,Medium Risk Contract,0,0,1,0,Mild Decline,3.56,-1.66,0
+100182,42,East,24,One-Year,Standard,62.61,1508.59,Bank Transfer,0,0,0,1,1,0,32.25,6.3,0,Established (18-36mo),Mid Value,Medium Risk Contract,0,0,1,0,Sharp Growth,2.61,-0.46,0
+100183,46,West,8,Month-to-Month,Basic,21.76,223.08,Credit Card,0,0,1,2,0,0,-11.6,6.1,5,Growing (6-18mo),Low Value,High Risk Contract,0,0,1,0,Mild Decline,2.72,-0.65,0
+100184,31,East,47,One-Year,Standard,56.8,2693.23,Electronic Check,1,1,0,2,0,1,11.86,10.0,0,Loyal (36mo+),Mid Value,Medium Risk Contract,0,0,0,0,Stable/Growing,1.21,3.24,0
+100185,33,East,10,Two-Year,Premium,117.0,1184.29,Bank Transfer,1,1,1,1,2,0,-12.76,9.0,0,Growing (6-18mo),Mid Value,Low Risk Contract,0,0,0,0,Mild Decline,11.7,2.22,0
+100186,57,East,33,Month-to-Month,Basic,30.63,1038.24,Bank Transfer,1,0,0,2,5,0,28.41,8.4,0,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,0,Sharp Growth,0.93,1.65,0
+100187,57,South,43,One-Year,Basic,31.19,1327.51,Electronic Check,0,1,0,1,4,0,26.45,5.7,0,Loyal (36mo+),Mid Value,Medium Risk Contract,1,0,0,0,Sharp Growth,0.73,-1.05,0
+100188,47,East,33,Two-Year,Premium,99.92,3222.03,Credit Card,1,0,0,3,5,2,-11.42,4.2,0,Established (18-36mo),High Value,Low Risk Contract,1,1,0,1,Mild Decline,3.03,-2.58,1
+100189,24,South,72,One-Year,Standard,49.41,3548.12,Credit Card,0,1,0,3,0,2,-34.96,6.3,0,Loyal (36mo+),High Value,Medium Risk Contract,0,1,0,1,Sharp Decline,0.69,-0.46,0
+100190,30,East,2,Month-to-Month,Standard,57.6,93.38,Electronic Check,1,0,0,1,2,0,-22.0,7.3,5,New (0-6mo),Low Value,High Risk Contract,0,0,0,0,Sharp Decline,28.8,0.54,1
+100191,22,East,13,Month-to-Month,Basic,31.29,431.4,Credit Card,1,0,1,1,4,1,-2.53,6.2,5,Growing (6-18mo),Low Value,High Risk Contract,1,0,0,0,Mild Decline,2.41,-0.55,1
+100192,40,Central,43,One-Year,Standard,56.53,2425.84,Bank Transfer,1,1,0,3,1,1,2.02,8.5,0,Loyal (36mo+),Mid Value,Medium Risk Contract,0,0,0,1,Stable/Growing,1.31,1.74,0
+100193,41,West,6,Month-to-Month,Standard,62.33,386.73,Credit Card,1,1,0,3,1,0,-17.05,4.9,5,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,1,Sharp Decline,10.39,-1.86,1
+100194,58,East,10,Month-to-Month,Premium,92.2,952.4,Bank Transfer,1,1,0,2,2,1,33.51,9.2,0,Growing (6-18mo),Low Value,High Risk Contract,0,0,0,0,Sharp Growth,9.22,2.42,0
+100195,18,Central,27,Month-to-Month,Premium,102.83,2738.23,Credit Card,0,1,0,3,3,0,2.65,8.2,0,Established (18-36mo),Mid Value,High Risk Contract,1,0,0,1,Stable/Growing,3.81,1.42,1
+100196,45,West,19,Two-Year,Premium,106.96,2014.35,Bank Transfer,1,1,1,2,0,0,-12.28,7.4,10,Established (18-36mo),Mid Value,Low Risk Contract,0,0,0,0,Mild Decline,5.63,0.62,0
+100197,37,West,26,Month-to-Month,Basic,29.22,746.19,Electronic Check,0,0,1,1,1,1,-37.17,8.6,10,Established (18-36mo),Low Value,High Risk Contract,0,0,1,0,Sharp Decline,1.12,1.85,0
+100198,41,Central,21,One-Year,Standard,54.13,1145.87,Bank Transfer,0,1,0,2,2,1,-16.24,6.5,10,Established (18-36mo),Mid Value,Medium Risk Contract,0,0,0,0,Sharp Decline,2.58,-0.26,0
+100199,47,North,22,One-Year,Premium,98.21,2117.79,Credit Card,1,1,0,3,4,0,-6.73,6.9,0,Established (18-36mo),Mid Value,Medium Risk Contract,1,0,0,1,Mild Decline,4.46,0.12,1
